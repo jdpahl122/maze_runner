@@ -1,0 +1,11 @@
+# Minimal runtime deps (install torch with correct CUDA separately from pytorch.org)
+gymnasium>=0.29.1
+stable-baselines3[extra]>=2.3.2
+tensorboard>=2.16.0
+moviepy>=1.0.3
+imageio>=2.31.0
+pygame>=2.5.2
+matplotlib>=3.8.0
+numpy>=1.26.0
+tqdm>=4.66.0
+mlflow>=2.13.0
